@@ -146,3 +146,11 @@ iv. Ratio<br>
 --> A ratio scale is a quantitative scale where there is a true zero and equal intervals between neighboring points. <br>
 &emsp;Eg. weight, length, temperature  
 </p>
+
+
+# FREQUENCY DISTRIBUTION
+
+Sample Data = Rose,Lilly,Sunflower,Rose,Lilly,Sunflower,Rose,Lilly,Lilly
+
+![8 EG](https://user-images.githubusercontent.com/95436738/186906036-553cb527-56a4-4145-9d39-0e51096918ba.PNG)
+
