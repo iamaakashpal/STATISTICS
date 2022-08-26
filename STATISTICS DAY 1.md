@@ -1,3 +1,5 @@
+# ALL TOPICS NAME : https://github.com/iamaakashpal/Statistics/blob/main/TOPICS.txt
+
 <p>
   1. What is Statistics and what are the its Types?<br>
 --> Statistics is the science of collecting, organizing and analyzing of the data.(for Better Decision Making).</p>
