@@ -81,3 +81,44 @@ iii. Systematic Sampling<br>
 iv. Convenience Sampling<br>
 --> Only those people are interested.
 </p>
+
+# VARIABLE
+
+<p>
+--> A Variable is a property that can take on any value.<br>
+Eg.Height = 157cm
+Weight = 77kg
+</p>
+
+# TYPES OF VARIABLE
+
+![4 Types of Variable](https://user-images.githubusercontent.com/95436738/186898815-0785c982-5910-4795-bc4e-a33e436c0223.png)
+
+
+<p>
+  i. Quantitative Variable.<br>
+--> Measured Numerically(+,-,*,/)<br>
+Eg. Age, Height, Weight.
+</p>
+
+<p>
+&emsp;&emsp;a. Discrete Variable<br>
+&emsp;&emsp;--> Whole Number <br>
+&emsp;&emsp;Eg. Number of Bank Account, Number of Family Member.
+</p>
+
+<p>
+&emsp;&emsp;b. Continuos Variable<br>
+&emsp;&emsp;--> Decimal Number<br>
+&emsp;&emsp;Eg. Height of a Person, Rainfall Measurement
+</p>
+
+<p>
+ii. Qualitative / Categoriacal Variable.<br>
+--> Gender(Male/Female) (Based on some characteristic we can derive categorial variable.)
+</p>
+
+# VARIABLE MEASUREMENT SCALES
+
+![5 Variable Measurement Scale](https://user-images.githubusercontent.com/95436738/186900298-16a5a247-50af-4913-acdb-daa249f078d4.png)
+
