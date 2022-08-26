@@ -1,18 +1,28 @@
 <details>
   <summary>STATISTICS DAY 1 AGENDA</summary>
-    1. What is Statistics and what are the its Types?
-    2. Probability Introduction.
-    3. Addition Rule in Probability.
-    4. Multiplication Rule in Probability.
-    5. Descriptive and Inferential Statistics.
-    6. Population and Sample.
-    7. Measure of Central Tendency(Mean, Median, Mode).
-    8. Measure of Dispersion(Variance, Standard Deviation).
-    9. Population Mean and Sample Mean.
-    10. What is Sampling Method and its Type.
-    11. What is Variables and its Types.
-    12. Variable Measurement Scales.
-    13. Frequency Distribution and Cumulative Frequency.
+    1. What is Statistics and what are the its Types?<br>
+    2. Probability Introduction.<br>
+    3. Addition Rule in Probability.<br>
+    4. Multiplication Rule in Probability.<br>
+    5. Descriptive and Inferential Statistics.<br>
+    6. Population and Sample.<br>
+    7. Measure of Central Tendency(Mean, Median, Mode).<br>
+    8. Measure of Dispersion(Variance, Standard Deviation).<br>
+    9. Population Mean and Sample Mean.<br>
+    10. What is Sampling Method and its Type.<br>
+    11. What is Variables and its Types.<br>
+    12. Variable Measurement Scales.<br>
+    13. Frequency Distribution and Cumulative Frequency.<br>
     14. Histograms.
 </details>
 
+<p>
+  1. What is Statistics and what are the its Types?<br>
+--> Statistics is the science of collecting, organizing and analyzing of the data.(for Better Decision Making).</p>
+
+<p>
+  Data :- Facts or pieces of information that can be measured.<br>
+Eg. Height of the Student(150cm, 155cm, 180cm).
+</p>
+
+![Type of Statistics](https://user-images.githubusercontent.com/95436738/186883336-40aa51bb-1bc3-4663-919d-c60bcd8cc862.png)
