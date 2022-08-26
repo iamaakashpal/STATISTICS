@@ -132,10 +132,14 @@ ii. Ordinal<br>
 --> Order of the data matters,but value does not.
 </p>
 
+![6 Eg](https://user-images.githubusercontent.com/95436738/186904887-a331a152-61ee-425f-b8f3-d2e6c9bddbdb.PNG)
+
 <p>
 iii. Interval<br>
 --> Order of the data matters,value also matter,natural zero is not present.
 </p>
+
+![7 eg](https://user-images.githubusercontent.com/95436738/186905305-30f0a477-7d8f-4fce-96b3-3f002a41a5a1.PNG)
 
 <p>
 iv. Ratio<br>
