@@ -25,20 +25,38 @@
 Eg. Height of the Student(150cm, 155cm, 180cm).
 </p>
 <br>
+
 ![Type of Statistics](https://user-images.githubusercontent.com/95436738/186883336-40aa51bb-1bc3-4663-919d-c60bcd8cc862.png)
+
+
 <br>
-<p>
-  Types of Statistics:
-</p>
+
+# TYPES OF STATISTICS:
+
 <p>
   i. Descriptive Statistics<br>
 --> It consists of organizing and summarizing data.<br>
 
 ii. Inferential Statistics<br>
---> Technique where in we we used the data that we have measures to form conclusion.
+--> Technique where in we used the data that we have measures to form conclusion.
 <br>
-Example:
-<br>
-Classroom of Maths Student Marks obtain in First Sem.
-(84,86,78,72,75,65,80,81,92,95,96,97)
+</p>  
+Example:<br>
+  
+Classroom of Maths Student Marks obtain in First Semester.<br>
+(84, 86, 78, 72, 75, 65, 80, 81, 92, 95, 96, 97)
+
+<p>
+What type of question comes in Descriptive Statistics.<br>
+What is the average marks of the student in the class?<br>
+
+What type of question comes in Inferential Statistics.<br>
+Are the marks of the students of this classroom similar to the marks of the Maths Classroom in the college?<br>
 </p>
+
+# POPULATION AND SAMPLE
+
+Population denotes as (N) whereas Sample denotes as (n).
+
+
+![2 Population and Sample](https://user-images.githubusercontent.com/95436738/186890973-538bb25b-ab99-4ffa-bcc3-96e9babcdea5.png)
