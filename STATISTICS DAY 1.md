@@ -122,3 +122,23 @@ ii. Qualitative / Categoriacal Variable.<br>
 
 ![5 Variable Measurement Scale](https://user-images.githubusercontent.com/95436738/186900298-16a5a247-50af-4913-acdb-daa249f078d4.png)
 
+<p>
+i. Nominal {Categorical Data}<br>
+&emsp;Eg. Gender,Color
+</p>
+
+<p>
+ii. Ordinal<br>
+--> Order of the data matters,but value does not.
+</p>
+
+<p>
+iii. Interval<br>
+--> Order of the data matters,value also matter,natural zero is not present.
+</p>
+
+<p>
+iv. Ratio<br>
+--> A ratio scale is a quantitative scale where there is a true zero and equal intervals between neighboring points. <br>
+&emsp;Eg. weight, length, temperature  
+</p>
