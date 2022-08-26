@@ -154,3 +154,17 @@ Sample Data = Rose,Lilly,Sunflower,Rose,Lilly,Sunflower,Rose,Lilly,Lilly
 
 ![8 EG](https://user-images.githubusercontent.com/95436738/186906036-553cb527-56a4-4145-9d39-0e51096918ba.PNG)
 
+
+# BAR GRAPH
+
+--> Use for Discrete Value.
+
+![9 Bar Graph](https://user-images.githubusercontent.com/95436738/186921426-56a31db6-7688-4b8a-ba74-aba65f89aabd.PNG)
+
+# HISTOGRAM
+
+--> Use for Continuous Vale.
+
+Sample Data = 10,12,14,18,24,26,30,35,36,37,40,41,42,43,50,51
+
+![10 Histogram](https://user-images.githubusercontent.com/95436738/186922812-6b918a70-d5a6-46fc-9413-3a493d672462.PNG)
