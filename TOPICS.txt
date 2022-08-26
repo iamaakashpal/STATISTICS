@@ -1,0 +1,52 @@
+BASIC STATISTICS
+================================================
+1. What is Statistics and what are the its Types?
+2. Probability Introduction.
+3. Addition Rule in Probability.
+4. Multiplication Rule in Probability.
+5. Descriptive and Inferential Statistics.
+6. Population and Sample.
+7. Measure of Central Tendency(Mean, Median, Mode).
+8. Measure of Dispersion(Variance, Standard Deviation).
+9. Population Mean and Sample Mean.
+10. What is Sampling Method and its Type.
+11. What is Variables and its Types.
+12. Variable Measurement Scales.
+13. Frequency Distribution and Cumulative Frequency.
+14. Histograms.
+
+
+INTERMEDIATE STATISTICS
+================================================
+1. Percentiles and Quantiles
+2. Five Number Summary
+3. Inter Quartile Range(IQR)
+4. Boxplots
+5. Effect of Outliers and its removal
+6. Probability Density Function
+7. Normal Distribution or Gaussian Distribution and Emperical Formula
+8. Z Score
+9. Standardization vs Normalization
+10. Standard Normal Distribution
+11. Central Limit Theorem
+12. Chebyshevs Inequality
+13. Covariance
+14. Pearson Correlation Coefficient
+
+ADVANCE STATISTICS
+================================================
+1. QQ plot check data is Normally Distributed.
+2. Bernoulli Distribution and Binomial
+3. Log Normal Distribution
+4. Power Law Distribution
+5. Boxcox Transform
+6. All Transformation Techniques
+7. Confidence Interval in statistics
+8. Type 1 and Type 2 error
+9. One Tailed and 2 Tailed Tests
+10. Hypothesis testing,p value
+11. Steps for Hypothesis Testing
+12. T Test
+13. Z Test
+14. Annova Test
+15. Chisquare Test
