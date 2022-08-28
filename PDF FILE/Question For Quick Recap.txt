@@ -1,0 +1,17 @@
+1. What is statistics ?
+2. What is Data ?
+3. What are the types of Statistics ?
+4. What types of question comes in Descriptive Statistics and Inferential Statistics ?
+5. What do you mean by Population data and Sample data ?
+6. Notation for Population data and Sample data ?
+7. What are the different Sampling Techniques ?
+8. What is Variable ?
+9. What are the kinds or types of a Variable ?
+10. What are the types of Quantitative Variable ?
+11. What are the different types of Variable Measurement Scale ?
+12. What do you mean by Frequency Distribution ?
+13. What do you mean by Cummulative Frequency Distribution ?
+14. What do you mean by Bar Graph ?
+15. What do you mean by Histogram ?
+15. What do you mean by Probability Density Function ?
+16. Histogram vs Bar Graph ?
