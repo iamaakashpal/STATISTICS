@@ -57,3 +57,12 @@
 11. What is Hypothesis Testing ?
 12. What is Confidence Interval ?
 13. What is Significance Value ?
+
+================ DAY 5 ================
+
+1. What is Type 1 and Type 2 Error ?
+2. What is One Tailed and 2 Tailed test ?
+3. What is Confidence Interval ?
+4. What is Confidence Interval Formula ?
+5. What is Point Estimate ?
+6. When to use z test and t test ?
