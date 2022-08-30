@@ -1,3 +1,5 @@
+================ DAY 1 ================
+
 1. What is statistics ?
 2. What is Data ?
 3. What are the types of Statistics ?
@@ -15,3 +17,18 @@
 15. What do you mean by Histogram ?
 15. What do you mean by Probability Density Function ?
 16. Histogram vs Bar Graph ?
+
+================ DAY 2 ================
+
+1. What do you mean by Measure of Central Tendency ?
+2. What do you mean by term "Mean" ?
+3. What is the formula for "Population Mean" and "Sample Mean"?
+4. What do you mean by term "Median" ?
+5. What do you mean by term "Mode" ?
+6. What do you mean by "Measure of Dispersion" ?
+7. What is Variance with formula ?
+8. Why Sample Variance is "n - 1"?
+9. What is Standard Deviation with formula ? 
+10. What is Perccentile ?
+11. Explain Five Number Summary ?
+12. What is "Outlier" ?
