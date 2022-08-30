@@ -32,3 +32,12 @@
 10. What is Perccentile ?
 11. Explain Five Number Summary ?
 12. What is "Outlier" ?
+
+================ DAY 3 ================
+
+1. What is Gaussian/Normal Distribution with Emperical Formala ?
+2. What is Normal Distribution ?
+3. What is Standard Normal Distribution ?
+4. z-score Formula ?
+5. What is Standardization with Formula ?
+6. What is Normalization with Formula ?
