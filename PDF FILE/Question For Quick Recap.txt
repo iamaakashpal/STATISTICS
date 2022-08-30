@@ -41,3 +41,19 @@
 4. z-score Formula ?
 5. What is Standardization with Formula ?
 6. What is Normalization with Formula ?
+
+================ DAY 4 ================
+
+1. What is Probability ?
+2. What is Mutual Exclusive Event ?
+3. What is Non Mutual Exclusive Event ?
+4. What is Addition Rule Mutual Exclusive Event with Formula?
+5. What is Addition Rule Non Mutual Exclusive Event with Formula ?
+6. What is Multiplication Rule for Independent Event ?
+7. What is Multiplication Rule for Dependent Event ?
+8. What is Permutation with Formula ?
+9. What is Combination with Formula ?
+10. What is p value ?
+11. What is Hypothesis Testing ?
+12. What is Confidence Interval ?
+13. What is Significance Value ?
